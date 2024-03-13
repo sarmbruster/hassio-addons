@@ -1,13 +1,13 @@
 {
   "name": "Homegear",
-  "version": "0.9.6",
+  "version": "0.9.8",
   "slug": "homegear",
   "description": "Homegear as a Hassio add-on",
   "arch": ["armv7", "armhf", "amd64"],
   "startup": "services",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:2001]",
-  "auto_uart": true,
+  "uart": true,
   "gpio": true,
   "privileged": [
     "SYS_ADMIN",
