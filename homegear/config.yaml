@@ -1,7 +1,7 @@
-name: Homegear
-version: 0.0.22
-slug: homegear
-description: Homegear as a Hassio add-on
+name: Homegear CUL
+version: 0.1.0
+slug: homegear-cul
+description: Homegear CUL as a Home Assistant add-on
 arch:
 - armv7
 - armhf
